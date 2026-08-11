@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Cherif 👋
 
-<!--
-**bythestar/bythestar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Cloud Security Analyst** focused on Cloud Governance, automation, and practical security.
 
-Here are some ideas to get you started:
+Currently building hands-on projects around AWS security posture, evidence collection, and AI-assisted governance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Current Focus
+- Cloud Security & Governance
+- AWS (IAM, CloudTrail, S3, Security Groups)
+- Automating security checks with Python + boto3
+- Turning technical findings into clear reports
+
+### 📌 Featured Project
+**[AWS Governance Evidence Collector](https://github.com/bythestar/aws-governance-evidence-collector)**  
+Python tool that checks an AWS account for common governance issues (public S3, root MFA, open security groups) and generates a clean report.
+
+### 📚 Learning Path
+Cloud Security Analyst → Cloud Governance
+
+---
+
+### 💡 Skills I'm Building
+`AWS` `Python` `boto3` `IAM` `CloudTrail` `Security Posture` `AI-assisted Reporting`
+
+---
+
+📧 Open to internships, projects, and learning opportunities in cloud security.
